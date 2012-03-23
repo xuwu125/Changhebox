@@ -9,6 +9,10 @@ define("DEBUG",true);
 define("SYSTEMOS",'Linux');
 
 class a{
+    /**
+     * 这是一个备注
+     * 
+     */
 	function b(){
 	
 	}
