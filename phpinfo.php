@@ -28,6 +28,7 @@ class d extends a
 	var $b=null;	
 	function init(){
 		$this->b=new a();
+        $this->b->b();
 	}
 }
 
