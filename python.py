@@ -7,4 +7,5 @@ class obs(Object):
 	def test():
 		pass
 
+obs.test()
 main()
